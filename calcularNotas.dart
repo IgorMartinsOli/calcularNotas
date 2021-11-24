@@ -17,7 +17,7 @@ void main() {
       }
     }
 
-    /* //SOLUÇÃO ALTERNATIVA
+    /* //SOLUÇÃO ALTERNATIVA alterado
     if ((numDig / 200).round() != 0) {
       if (numDig >= 200) {
         print('Notas 200: ${(numDig / 200).round()}');
